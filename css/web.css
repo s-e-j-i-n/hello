@@ -1,0 +1,26 @@
+*{ margin: 0; padding: 0;}
+ul{ list-style: none;}
+a{ color: #222; text-decoration: none;}
+
+.black{ background-color: black;}
+.red{ background-color: red;}
+.yellow { background-color: yellow;}
+
+/* AB */
+/* .contaier{ width: 1200px; margin: 0 auto;} */
+
+/* C */
+.contaier{ width: 1000px;}
+.w200{ width: 200px;}
+.w800{ width: 800px;}
+
+/* commom */
+
+.h100{ height: 100px;}
+.rel{ position: relative;}
+.abs{ position: absolute;}
+.d-flex{ display: flex;}
+.justify-content-between{ justify-content: space-between;}
+.aline-items-center{ align-items: center;}
+.h300{ height: 300px;}
+.h200{ height: 200px;}
